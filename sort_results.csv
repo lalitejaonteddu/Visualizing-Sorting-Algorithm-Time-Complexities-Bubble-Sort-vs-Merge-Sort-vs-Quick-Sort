@@ -1,0 +1,6 @@
+Algorithm,Comparisons,Array Writes,Time (ms)
+Bubble Sort,187,113,0.014
+Insertion Sort,130,113,0.00821
+Selection Sort,190,17,0.00758
+Merge Sort,63,88,0.01754
+Quick Sort,62,45,0.00837
